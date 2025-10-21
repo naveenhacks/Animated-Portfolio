@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+Or access the online demo here: [Live Demo](https://naveenrajpoot-portfolio.vercel.app/)
 
 ---
 
@@ -32,11 +32,4 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 | **Form Handling** | EmailJS |
 | **Deployment** | GitHub Pages |
 
----
-
-## ⚙️ Setup & Usage
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
+-
